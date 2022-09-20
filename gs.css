@@ -1,3 +1,56 @@
-styles{
+
+.song{
+    color:black;
+font-size: medium;
+font-style:italic;
+}
+.speech{
+    color:black;
+    font-size: large;
+    font-style:italic;}
+.direction{
+        background-color: rgb(192, 192, 232);
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        
+    }
+.direction:hover {
+        background-color: aqua;
+        color: blueviolet;}
+
+.ELLA{
+ color:black;
+ font-size: large;
+ font-style:italic;
+}
+.SAPHIR{
+    color:black;
+font-size: large;
+font-style:italic;
+}
+.ANGELA{
+    color:black;
+font-size: large;
+font-style:italic;
+}
+.JANE{
+    color:black;
+font-size: large;
+font-style:italic;
+}
+.CHORUS{
+    color:black;
+font-size: medium;
+font-style:italic;}
+
+table,td,th{
+    border: solid 1px;
+    color: blueviolet;
+    text-align: center;
+    padding: 1em;
+    margin: 1px;
     
+}
+tr:nth-child(odd){
+background-color: rgb(115, 236, 183);
 }
