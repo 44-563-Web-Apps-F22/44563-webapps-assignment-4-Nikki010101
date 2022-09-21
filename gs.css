@@ -60,3 +60,23 @@ background-color: rgb(115, 236, 183);
     border-style: solid;
     
 }
+ul.navbar-horizontal{
+  list-style-type: none;
+  margin: 20px;  
+}
+ul.navbar-horizontal li{
+    float: center;  
+    background-color: bisque;
+  }
+  ul.navbar-horizontal a{
+    text-align: center;
+    color: #FF0000;
+    display: block;
+    padding:15px;
+    margin:15px;
+  }
+  ul.navbar-horizontal a:hover{
+    background-color: burlywood;
+    color: blue;
+  }
+  
