@@ -79,4 +79,8 @@ ul.navbar-horizontal li{
     background-color: burlywood;
     color: blue;
   }
-  
+  li{
+    float: left;
+   
+  }
+
