@@ -83,4 +83,8 @@ ul.navbar-horizontal li{
     float: left;
    
   }
+  i{
+    color: chocolate;
+    font-size: 200px!important;
+  }
 
